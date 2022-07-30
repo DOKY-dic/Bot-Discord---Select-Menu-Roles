@@ -1,12 +1,12 @@
 //this is example, for support join on my discord https://discord.gg/MX7STMbBP3
 
 {
-    "prefix": "!", //prefix change if do you want
+    "prefix": "?", //prefix change if do you want
     "clientId": "", //clientid you can find it in the discord presence panel
     "guildId": "", //add guildid, you can find it on your discord server
-    "token": "", //add bot token
-    "role_id_1":"", //role id 1
-    "role_id_2":"",  //role id 2
+    "token": "ODA1NDA1NzA5MTM5MzEyNjcw.GTv_6N.KnSdoD6_eVi1iD5bjbp5wrFjlwz8kBlB-wW9UE", //add bot token
+    "role_id_1":"825294208763035684", //role id 1
+    "role_id_2":"825294208730267670",  //role id 2
     "role_id_3":"", //role id 3
     "role_id_4":"", //role id 4
     "role_id_emoji_1":"🗺️", 
